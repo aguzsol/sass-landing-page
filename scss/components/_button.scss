@@ -19,3 +19,8 @@
     @include set-background($secondary-color);
   }
   
+  .btn-alternative{
+    @extend %btn;
+    @include set-background($alternative-color);
+    background-color: $alternative-color;
+  }

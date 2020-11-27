@@ -1,14 +1,15 @@
 // _config.scss
-@import 'config';
+@import '_config';
 
 // _style.scss
-@import 'style'; 
+@import '_style'; 
 // _utilities.scss
-@import 'utilities'; 
+@import '_utilities'; 
 
 // components/_button.scss
 @import 'components/button'; 
 
 // responsive/_mobile.scss 
 @import 'responsive/_mobile.scss' 
+
 
