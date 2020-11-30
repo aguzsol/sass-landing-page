@@ -22,7 +22,7 @@ a {
 .showcase {
   background-color: #0e6cff;
   color: #fff;
-  height: 600px;
+  height: 550px;
 }
 .showcase nav {
   display: -webkit-box;
@@ -130,6 +130,10 @@ a {
   padding: 1rem 0;
 }
 
+.mt-1 {
+  margin-top: 1rem;
+}
+
 .m-2 {
   margin: 2rem;
 }
@@ -144,6 +148,10 @@ a {
 
 .py-2 {
   padding: 2rem 0;
+}
+
+.mt-2 {
+  margin-top: 2rem;
 }
 
 .m-3 {
@@ -162,6 +170,10 @@ a {
   padding: 3rem 0;
 }
 
+.mt-3 {
+  margin-top: 3rem;
+}
+
 .m-4 {
   margin: 4rem;
 }
@@ -178,6 +190,10 @@ a {
   padding: 4rem 0;
 }
 
+.mt-4 {
+  margin-top: 4rem;
+}
+
 .m-5 {
   margin: 5rem;
 }
@@ -192,6 +208,10 @@ a {
 
 .py-5 {
   padding: 5rem 0;
+}
+
+.mt-5 {
+  margin-top: 5rem;
 }
 
 .btn-alternative, .btn-secondary, .btn-primary {
@@ -216,6 +236,8 @@ a {
 }
 
 .btn-alternative {
+  background-color: #245e24;
+  color: #fff;
   background-color: #245e24;
 }
 
