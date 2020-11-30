@@ -1,5 +1,5 @@
 # Ejercicio SASS
-Ejercicio realizado para la práctica de SASS. 
+Ejercicio realizado por **Alba Guzman** para la práctica de SASS. 
 ### Diseño final
 ![Diseño](https://github.com/aguzsol/sass-landing-page/blob/main/img%2Fsass_landing_page_desktop.png)
 
