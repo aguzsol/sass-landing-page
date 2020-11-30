@@ -1,6 +1,6 @@
 # Ejercicio SASS
-
-### Diseño final esperado
+Ejercicio realizado para la práctica de SASS. 
+### Diseño final
 ![Diseño](https://github.com/aguzsol/sass-landing-page/blob/main/img%2Fsass_landing_page_desktop.png)
 
 1. Añade el código SCSS necesario en _style.scss para estilizar la sección de equipo. Utiliza el __nesting__ propio de SASS para definir los estilos, siguiendo el ejemplo de 'showcase'. Usa el operador '&' en alguna ocasión
